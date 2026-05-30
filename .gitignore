@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Secret/config files
+accountid.py
+.idea/
+
+
+# Data/model outputs if large or private
+data/
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
